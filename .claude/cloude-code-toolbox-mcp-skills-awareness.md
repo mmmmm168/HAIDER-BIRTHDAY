@@ -1,6 +1,6 @@
 # Claude Code ToolBox — MCP & Skills awareness
 
-_Generated: 2026-10-27T13:25:02.029Z_
+_Generated: 2026-10-27T13:31:19.939Z_
 
 ## How to use this report
 
@@ -13,9 +13,9 @@ _Generated: 2026-10-27T13:25:02.029Z_
 
 ## MCP — workspace
 
-Workspace `mcp.json` _(folder: ZAIBA)_
+Workspace `mcp.json` _(folder: UKASHA)_
 
-- **c:\Users\Administrator\Downloads\ZAIBA\.mcp.json** — _File missing_
+- **c:\Users\Administrator\Downloads\UKASHA\.mcp.json** — _File missing_
 
 _No active workspace servers in mcp.json._
 
